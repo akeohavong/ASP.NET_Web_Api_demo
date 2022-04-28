@@ -1,0 +1,12 @@
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\bin\Debug\net5.0\SimpleSchool.Core.deps.json
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\bin\Debug\net5.0\SimpleSchool.Core.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\bin\Debug\net5.0\SimpleSchool.Core.pdb
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.csproj.AssemblyReference.cache
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.AssemblyInfoInputs.cache
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.AssemblyInfo.cs
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\refint\SimpleSchool.Core.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\SimpleSchool.Core.pdb
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.Core\obj\Debug\net5.0\ref\SimpleSchool.Core.dll

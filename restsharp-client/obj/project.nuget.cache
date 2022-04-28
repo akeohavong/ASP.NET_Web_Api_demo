@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHrry7C4mGpbsEMqgRCEjhy2cRraHiQnoahpD6ufr+waFhn6i2kpt2Iy1dREXvuGNw1ssv9AoUGGXsVL08nvkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anou Keohavong\\source\\start\\restsharp-client\\SimpleSchool.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anou Keohavong\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

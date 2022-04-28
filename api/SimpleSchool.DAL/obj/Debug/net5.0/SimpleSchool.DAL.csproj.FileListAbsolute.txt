@@ -1,0 +1,15 @@
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\bin\Debug\net5.0\SimpleSchool.DAL.deps.json
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\bin\Debug\net5.0\SimpleSchool.DAL.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\bin\Debug\net5.0\SimpleSchool.DAL.pdb
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\bin\Debug\net5.0\SimpleSchool.Core.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\bin\Debug\net5.0\SimpleSchool.Core.pdb
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.csproj.AssemblyReference.cache
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.AssemblyInfoInputs.cache
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.AssemblyInfo.cs
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.csproj.CopyComplete
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\refint\SimpleSchool.DAL.dll
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\SimpleSchool.DAL.pdb
+C:\Users\Anou Keohavong\source\start\api\SimpleSchool.DAL\obj\Debug\net5.0\ref\SimpleSchool.DAL.dll
