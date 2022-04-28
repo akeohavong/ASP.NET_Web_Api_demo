@@ -55,7 +55,7 @@ namespace SimpleSchool.Mvc.Controllers
                 return Ok(new BuildingModel()
                 {
                     BuildingID = result.Data.BuildingID,
-                    BuildingName = result.Data.BuildingName
+                    BuildingName = result.Data.BuildingName,
                 });
             }
             else
